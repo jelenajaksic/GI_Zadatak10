@@ -34,6 +34,6 @@ Testiranje algoritama pokrece se pomocu skripte `bwt_fm_test.py`. Test skripta z
 
 ## Prezentacija
 
-Video:
+Video: https://www.youtube.com/watch?v=7HQ3cAF_Myg
 
-Slides:
+Slides: https://www.canva.com/design/DAEdg4fkrYM/r3pmVEiP_u_PdveWavSKiA/view?utm_content=DAEdg4fkrYM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
