@@ -48,18 +48,6 @@ def main():
             else:
                 break
 
-    # if algorithm == "o":
-    #     while True:
-    #         suffix_array_file = input("Full path to suffix array file: ")
-    #         if suffix_array_file is None:
-    #             print("Suffix array file is required for optimized algorithm")
-    #             continue
-    #         if not isfile(suffix_array_file):
-    #             print(suffix_array_file, " is not a file")
-    #             continue
-    #         else:
-    #             break
-
     while True:
         suffix_array_file = input("Full path to suffix array file: ")
         suffix_array_file = None if suffix_array_file=="" else suffix_array_file
